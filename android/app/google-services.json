@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380874237747",
+    "project_id": "repro-36e8b",
+    "storage_bucket": "repro-36e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380874237747:android:f338d5ee9ce43442204046",
+        "android_client_info": {
+          "package_name": "com.example.reproduction_amana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmE-RcBO6YncheaBDtJKt6yS0UR3oyHAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
